@@ -10,6 +10,10 @@ body {
   display: flex;
 }
 
+iframe{
+  flex: 50%;
+}
+
 a {
   color: #454545;
 }

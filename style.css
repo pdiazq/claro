@@ -6,6 +6,10 @@ body {
   width: 960px;
   line-height: 1.45em;
 }
+#section_joints{
+  display: inline-block;
+}
+
 a {
   color: #454545;
 }
